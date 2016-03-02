@@ -70,6 +70,32 @@ a:focus {
     text-align: left;
 }
 
+
+#scrollTop {
+    position:fixed;
+    display: none;
+    top: 85%;
+    right: 5%;
+    padding: 12px;
+    background-color: rgb(100, 100, 100);
+    background-color: rgba(100, 100, 100, 0.5);
+    border: 0;
+}
+
+#scrollTop:hover {
+    background-color: rgb(70, 70, 70);
+    background-color: rgba(255,255, 255, 0.7);
+
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -webkit-animation-duration: 0.5s;
+    -moz-animation-duration: 0.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+}
+
 .navbar-toggle i {
     color: #fff;
 }
