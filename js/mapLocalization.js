@@ -1,7 +1,7 @@
 function initMap() {
     var mapDiv = document.getElementById('map2');
 
-    var location = {lat:  40.284611, lng: -3.818766};
+    var location = {lat: 40.406981, lng: -3.835476};
 
     var map = new google.maps.Map(mapDiv, {
       center: location,
@@ -11,7 +11,7 @@ function initMap() {
     var marker = new google.maps.Marker({
         position: location,
         map: map,
-        title: 'MadSESE, Seminar 144 room'
+        title: 'MadSESE @ IMDEA Software'
     });
 
 }
