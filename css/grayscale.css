@@ -220,6 +220,7 @@ section#organization {
     height: auto;
 }
 
+
 @media(max-width:768px) {
     section{
         height: auto;
@@ -232,14 +233,25 @@ section#organization {
     background-color: white;
 }
 
+#programme {
+ background: url(https://pixabay.com/static/uploads/photo/2014/04/03/10/45/meeting-311355_960_720.png) no-repeat bottom center fixed;
+    background-color: white;
+}
+
 #invited {
     background-color: black;
     color: white;
 }
 
-#particip_venue {
+
+#programme {
     background-color: white;
     color: black;
+}
+
+#particip_venue {
+    background-color: black;
+    color: white;
 }
 
 #organization {
@@ -249,8 +261,8 @@ section#organization {
 
 #map2 {
     width: auto;
-    height: 400px;
-    padding: 25px;
+    height: 450px;
+    padding: 35px;
 }
 
 
@@ -397,6 +409,12 @@ section#organization {
 }
 
 #participation .content-section {
+    background: rgb(125, 125, 125);
+    background: rgba(220, 220, 220, 0.7);
+    padding-bottom: 20px;
+}
+
+#programme .content-section {
     background: rgb(125, 125, 125);
     background: rgba(220, 220, 220, 0.7);
     padding-bottom: 20px;
