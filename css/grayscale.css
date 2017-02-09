@@ -233,7 +233,7 @@ section#organization {
     background-color: white;
 }
 
-#programme {
+#programme, #events {
  background: url(http://gregoriorobles.github.io/MadSESE/images/meeting.png) no-repeat bottom center fixed;
     background-color: white;
     background-size: 700px auto;
@@ -245,7 +245,7 @@ section#organization {
 }
 
 
-#programme {
+#programme, #events {
     background-color: white;
     color: black;
 }
