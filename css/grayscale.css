@@ -538,3 +538,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+.organizing-team li {
+    font-size: 18px;       /* tamaño de letra más grande */
+    margin: 8px 0;         /* espacio entre nombres */
+}
+.organizing-team li a {
+    text-decoration: none; /* sin subrayado */
+}
