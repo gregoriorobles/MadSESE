@@ -11,7 +11,7 @@ function initMap() {
     var marker = new google.maps.Marker({
         position: location,
         map: map,
-        title: 'MadSESE @ UAH Escuela Politécnica'
+        title: 'MadSESE @ Sede Argüelles URJC'
     });
 
 }
