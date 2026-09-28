@@ -1,6 +1,6 @@
-# Web page for the 2016 MadSESE
+# Web page for MadSESE seminars
 
-This repository contains the web page for the First Madrilenian Workshop on Empirical Software Engineering Research.
+This repository contains the web site for the **Mad**rilenian **S**eminar on **E**mpirical **S**oftware **E**ngineering.
 
 ## Copyright
 
